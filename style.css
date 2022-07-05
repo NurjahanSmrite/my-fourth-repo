@@ -21,12 +21,52 @@ h1 span{
     margin-left: 5%;
     padding: 20px;
 }
+.diet p{
+    padding-bottom: 30px;
+}
 .anchor-button{
     text-decoration: none;
     background-color: rgba(255, 68, 0, 0.619);
     padding: 10px 40px;
     border-radius: 5px;
     color: aliceblue;
+     
 }
 
- 
+ .about-me{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+     padding:30px;
+    
+
+ }
+ .about-me img{
+    height: 70%;
+    width: 50%;
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-left: 50px;
+ }
+ .about-me p{
+    padding-bottom: 50px;
+    line-height: 30px;
+  }
+  h2{
+    font-size: 40px;
+    font-weight: 700;
+    
+  }
+  .second-section{
+    background-image: url("Frame 59.jpg");
+    background-repeat: no-repeat;
+  }
+  .third-section {
+    text-align: center;
+    padding-bottom: 5px;
+    
+  }
+   .picture{
+    display: inline;
+   }
+    
