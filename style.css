@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif; 
+    background-color: #FFDEDE;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.diet h1{
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+h1 span{
+    color:rgba(255, 68, 0, 0.619); 
+}
+.diet{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding: 20px;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: rgba(255, 68, 0, 0.619);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+ 
